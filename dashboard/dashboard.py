@@ -77,7 +77,7 @@ sum_order_items_df = create_sum_order_items_df(main_df)
 bystate_df = create_bystate_df(main_df)
 rfm_df = create_rfm_df(main_df)
 
-st.header('Dicoding Collection Dashboard :sparkles:')
+st.header('Daffline Dashboard :sparkles:')
 
 st.subheader('Daily Orders')
  
